@@ -1,5 +1,2 @@
-title: "Ez-a-cím"
-
-blabla
-
+title: "Your blog post title"
 date: 2020-10-31
